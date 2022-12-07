@@ -7,3 +7,6 @@ Ik heb gekozen voor een website over auto's.<br>
 De opdracht is al ingeleverd heb er een voldoende voor gescoord.<br>
 wie weet zal ik het in de toekomst nog verbeteren en update.<br>
 voor nu laat ik het product zoals het is.<br>
+
+
+(tijdsvak: Leerjaar 1, periode 1).
