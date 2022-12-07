@@ -1,0 +1,81 @@
+html {
+    background-color: black;
+}
+body {
+    margin: 0px;  
+}
+.header {
+    border-color: black;
+    border-width: 1px;
+    border-style: solid;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    color: white;
+    justify-content: flex-start;
+}
+.space { 
+    padding-left: 100px;
+}
+a { 
+    color: white;
+    text-decoration: unset;
+}
+.img1 { 
+    float: left;
+    margin-left: 2%;
+    width: 5%;
+}
+.middel {
+    height: 250px;
+    background-image: url("lamborghini.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-attachment: fixed;
+}
+.text1 { 
+    font-size: 60px;
+    color: white;
+    margin: 0px;
+    padding-left: 5%;
+}
+.text2 { 
+    font-size: 40px;
+    color: white;
+    margin:0px; 
+    padding-left: 5%;
+}
+.bericht { 
+margin: 100px; 
+color: white;
+text-align: center;
+background-image: url("logachtergrond.jpg");
+opacity: 0.8;
+background-repeat: no-repeat;
+background-position: center;
+background-size:cover;
+}
+.text3 {
+margin:0px; 
+}
+.adres {
+text-align: left;
+margin-bottom: 60px; 
+margin-left: 5px;
+}
+.showroom { 
+text-align: left;
+margin: 0px;
+margin-bottom: 60px;
+margin-left: 10px;
+}
+.Hletter { 
+font-size: 32px;
+}
+.footernamen {
+  color: white;
+  display: flex;
+  justify-content: space-evenly;
+  padding-top: 60px;
+  padding-bottom: 10px;
+}
