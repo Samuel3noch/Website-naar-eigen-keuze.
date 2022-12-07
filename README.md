@@ -9,4 +9,4 @@ wie weet zal ik het in de toekomst nog verbeteren en update.<br>
 voor nu laat ik het product zoals het is.<br>
 
 
-(tijdsvak: Leerjaar 1, periode 1).
+(Tijdsvak: Leerjaar 1, Periode 1).
